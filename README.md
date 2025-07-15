@@ -1,6 +1,6 @@
 # Sri Harsha Allam
 
-**Master's Student in Computer Science | Data Science | Aspiring AI Professional**  
+**Certified Data Engineer | Data Science | Aspiring AI Professional**  
 📍 Kansas City, MO | 🇺🇸  
 
 ---
